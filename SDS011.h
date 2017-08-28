@@ -14,7 +14,7 @@
 	#include "WProgram.h"
 #endif
 
-#include <SoftwareSerial.h>
+#include <HardwareSerial.h>
 
 
 class SDS011 {
